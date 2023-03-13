@@ -19,7 +19,7 @@ sponge
 
 ## 项目组成和结果展示
 如图所示
-<img width="1511" alt="image" src="https://user-images.githubusercontent.com/77396150/224594821-633664f3-2c7c-4f89-8481-d13185b2fd9a.png">
+![image-20230313111322059](https://imgbed001.oss-cn-hangzhou.aliyuncs.com/img/image-20230313111322059.png)
 
 本项目一共分为5部分：
 - 字节流（byteStream）：对传输的数据进行读写操作、并且支持流量控制；
