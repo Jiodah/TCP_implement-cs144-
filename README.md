@@ -1,4 +1,23 @@
 # 基于C++11实现的TCP协议
+
+## 目录树
+```cpp
+sponge
+├── apps
+├── build      代码构建
+├── CMakeLists.txt
+├── compile_commands.json -> build/compile_commands.json
+├── doctests
+├── etc
+├── libsponge  源代码
+├── README.md
+├── tests
+├── tun.sh
+├── txrx.sh
+└── writeups
+```
+
+## 项目组成和结果展示
 如图所示
 <img width="1511" alt="image" src="https://user-images.githubusercontent.com/77396150/224594821-633664f3-2c7c-4f89-8481-d13185b2fd9a.png">
 
