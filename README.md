@@ -11,4 +11,8 @@
 
 基于以上5部分，最终可以实现一个TCP协议。
 压力测试如图所示：
-
+```cpp
+$ ./apps/tcp_benchmark 
+CPU-limited throughput                : 1.00 Gbit/s
+CPU-limited throughput with reordering: 0.94 Gbit/s
+```
