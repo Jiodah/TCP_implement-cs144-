@@ -36,10 +36,4 @@ $ ./apps/tcp_benchmark
 CPU-limited throughput                : 1.00 Gbit/s
 CPU-limited throughput with reordering: 0.94 Gbit/s
 ```
----
-2023.03.22
-复习时突然想到字节流中的`queue<char> _buff`可以换成`queue<string> _buff`
 
-这样在读写的时候可以从`O(n)->O(1)`，在计算容量的时候由`O(1)->O(n)`但数据传输时读写的操作次数远远大于查询的次数，应该可以得到一个不错的优化。
-
-后续优化等完成后上传。
