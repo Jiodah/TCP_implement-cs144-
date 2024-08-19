@@ -1,17 +1,17 @@
-Start testing: Aug 19 16:31 CST
+Start testing: Aug 19 16:49 CST
 ----------------------------------------------------------
 26/169 Testing: t_byte_stream_construction
 26/169 Test: t_byte_stream_construction
 Command: "/home/whale/MyProject/TCP_implement/build/tests/byte_stream_construction"
 Directory: /home/whale/MyProject/TCP_implement/build
-"t_byte_stream_construction" start time: Aug 19 16:31 CST
+"t_byte_stream_construction" start time: Aug 19 16:49 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_construction" end time: Aug 19 16:31 CST
+"t_byte_stream_construction" end time: Aug 19 16:49 CST
 "t_byte_stream_construction" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -19,14 +19,14 @@ Test Passed.
 27/169 Test: t_byte_stream_one_write
 Command: "/home/whale/MyProject/TCP_implement/build/tests/byte_stream_one_write"
 Directory: /home/whale/MyProject/TCP_implement/build
-"t_byte_stream_one_write" start time: Aug 19 16:31 CST
+"t_byte_stream_one_write" start time: Aug 19 16:49 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_one_write" end time: Aug 19 16:31 CST
+"t_byte_stream_one_write" end time: Aug 19 16:49 CST
 "t_byte_stream_one_write" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -34,14 +34,14 @@ Test Passed.
 28/169 Test: t_byte_stream_two_writes
 Command: "/home/whale/MyProject/TCP_implement/build/tests/byte_stream_two_writes"
 Directory: /home/whale/MyProject/TCP_implement/build
-"t_byte_stream_two_writes" start time: Aug 19 16:31 CST
+"t_byte_stream_two_writes" start time: Aug 19 16:49 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_two_writes" end time: Aug 19 16:31 CST
+"t_byte_stream_two_writes" end time: Aug 19 16:49 CST
 "t_byte_stream_two_writes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -49,14 +49,14 @@ Test Passed.
 29/169 Test: t_byte_stream_capacity
 Command: "/home/whale/MyProject/TCP_implement/build/tests/byte_stream_capacity"
 Directory: /home/whale/MyProject/TCP_implement/build
-"t_byte_stream_capacity" start time: Aug 19 16:31 CST
+"t_byte_stream_capacity" start time: Aug 19 16:49 CST
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   1.96 sec
+Test time =   1.74 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_capacity" end time: Aug 19 16:31 CST
+"t_byte_stream_capacity" end time: Aug 19 16:49 CST
 "t_byte_stream_capacity" time elapsed: 00:00:01
 ----------------------------------------------------------
 
@@ -64,14 +64,14 @@ Test Passed.
 30/169 Test: t_byte_stream_many_writes
 Command: "/home/whale/MyProject/TCP_implement/build/tests/byte_stream_many_writes"
 Directory: /home/whale/MyProject/TCP_implement/build
-"t_byte_stream_many_writes" start time: Aug 19 16:31 CST
+"t_byte_stream_many_writes" start time: Aug 19 16:49 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_byte_stream_many_writes" end time: Aug 19 16:31 CST
+"t_byte_stream_many_writes" end time: Aug 19 16:49 CST
 "t_byte_stream_many_writes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -79,7 +79,7 @@ Test Passed.
 31/169 Test: t_webget
 Command: "/home/whale/MyProject/TCP_implement/tests/webget_t.sh"
 Directory: /home/whale/MyProject/TCP_implement/build
-"t_webget" start time: Aug 19 16:31 CST
+"t_webget" start time: Aug 19 16:49 CST
 Output:
 ----------------------------------------------------------
 HTTP/1.1 200 OK
@@ -87,25 +87,25 @@ Content-type: text/plain
 
 7SmXqWkrLKzVBCEalbSPqBcvs11Pw263K7x4Wv3JckI
 <end of output>
-Test time =   3.71 sec
+Test time =   2.34 sec
 ----------------------------------------------------------
 Test Passed.
-"t_webget" end time: Aug 19 16:31 CST
-"t_webget" time elapsed: 00:00:03
+"t_webget" end time: Aug 19 16:49 CST
+"t_webget" time elapsed: 00:00:02
 ----------------------------------------------------------
 
 53/169 Testing: t_address_dt
 53/169 Test: t_address_dt
 Command: "/home/whale/MyProject/TCP_implement/build/doctests/address_dt"
 Directory: /home/whale/MyProject/TCP_implement/build
-"t_address_dt" start time: Aug 19 16:31 CST
+"t_address_dt" start time: Aug 19 16:49 CST
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.20 sec
+Test time =   0.08 sec
 ----------------------------------------------------------
 Test Passed.
-"t_address_dt" end time: Aug 19 16:31 CST
+"t_address_dt" end time: Aug 19 16:49 CST
 "t_address_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -113,14 +113,14 @@ Test Passed.
 54/169 Test: t_parser_dt
 Command: "/home/whale/MyProject/TCP_implement/build/doctests/parser_dt"
 Directory: /home/whale/MyProject/TCP_implement/build
-"t_parser_dt" start time: Aug 19 16:31 CST
+"t_parser_dt" start time: Aug 19 16:49 CST
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_parser_dt" end time: Aug 19 16:31 CST
+"t_parser_dt" end time: Aug 19 16:49 CST
 "t_parser_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -128,15 +128,15 @@ Test Passed.
 55/169 Test: t_socket_dt
 Command: "/home/whale/MyProject/TCP_implement/build/doctests/socket_dt"
 Directory: /home/whale/MyProject/TCP_implement/build
-"t_socket_dt" start time: Aug 19 16:31 CST
+"t_socket_dt" start time: Aug 19 16:49 CST
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"t_socket_dt" end time: Aug 19 16:31 CST
+"t_socket_dt" end time: Aug 19 16:49 CST
 "t_socket_dt" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Aug 19 16:31 CST
+End testing: Aug 19 16:49 CST
