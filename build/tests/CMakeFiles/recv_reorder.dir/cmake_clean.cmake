@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/recv_reorder.dir/recv_reorder.cc.o"
-  "recv_reorder.pdb"
+  "CMakeFiles/recv_reorder.dir/recv_reorder.cc.o.d"
   "recv_reorder"
+  "recv_reorder.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

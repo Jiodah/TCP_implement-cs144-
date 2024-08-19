@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tcp_native.dir/tcp_native.cc.o"
-  "tcp_native.pdb"
+  "CMakeFiles/tcp_native.dir/tcp_native.cc.o.d"
   "tcp_native"
+  "tcp_native.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

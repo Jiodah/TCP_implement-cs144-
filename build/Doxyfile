@@ -3,31 +3,31 @@
 DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = "Sponge"
 PROJECT_BRIEF          = "CS144's user-space TCP library"
-PROJECT_LOGO           = "/home/cs144/sponge/etc/sponge_small.png"
-INPUT                  = /home/cs144/sponge
+PROJECT_LOGO           = "/home/whale/MyProject/TCP_implement/etc/sponge_small.png"
+INPUT                  = /home/whale/MyProject/TCP_implement
 RECURSIVE              = YES
-EXCLUDE                = /home/cs144/sponge/etc /home/cs144/sponge/build /home/cs144/sponge/tests /home/cs144/sponge/writeups
-OUTPUT_DIRECTORY       = "/home/cs144/sponge/build/doc"
+EXCLUDE                = /home/whale/MyProject/TCP_implement/etc /home/whale/MyProject/TCP_implement/build /home/whale/MyProject/TCP_implement/tests /home/whale/MyProject/TCP_implement/writeups
+OUTPUT_DIRECTORY       = "/home/whale/MyProject/TCP_implement/build/doc"
 CASE_SENSE_NAMES       = NO
 SORT_BRIEF_DOCS        = YES
 SORT_MEMBERS_CTORS_1ST = YES
 SHOW_NAMESPACES        = NO
-USE_MDFILE_AS_MAINPAGE = /home/cs144/sponge/README.md
+USE_MDFILE_AS_MAINPAGE = /home/whale/MyProject/TCP_implement/README.md
 SOURCE_BROWSER         = YES
 EXT_LINKS_IN_WINDOW    = YES
-INCLUDE_PATH           = /home/cs144/sponge/libsponge
-TAGFILES               = "/home/cs144/sponge/etc/cppreference-doxygen-web.tag.xml=https://en.cppreference.com/w/"
-TAGFILES              += "/home/cs144/sponge/etc/linux-man-doxygen-web.tag.xml=https://man7.org/linux/man-pages/"
-TAGFILES              += "/home/cs144/sponge/etc/rfc-doxygen-web.tag.xml=https://tools.ietf.org/html/"
+INCLUDE_PATH           = /home/whale/MyProject/TCP_implement/libsponge
+TAGFILES               = "/home/whale/MyProject/TCP_implement/etc/cppreference-doxygen-web.tag.xml=https://en.cppreference.com/w/"
+TAGFILES              += "/home/whale/MyProject/TCP_implement/etc/linux-man-doxygen-web.tag.xml=https://man7.org/linux/man-pages/"
+TAGFILES              += "/home/whale/MyProject/TCP_implement/etc/rfc-doxygen-web.tag.xml=https://tools.ietf.org/html/"
 HIDE_UNDOC_RELATIONS   = NO
 INLINE_GROUPED_CLASSES = YES
 INLINE_SIMPLE_STRUCTS  = YES
 HTML_COLORSTYLE_HUE    = 204
 HTML_COLORSTYLE_SAT    = 120
 HTML_COLORSTYLE_GAMMA  = 60
-HTML_EXTRA_STYLESHEET  = "/home/cs144/sponge/etc/sponge_doxygen.css"
+HTML_EXTRA_STYLESHEET  = "/home/whale/MyProject/TCP_implement/etc/sponge_doxygen.css"
 GENERATE_LATEX         = NO
-EXAMPLE_PATH           = "/home/cs144/sponge/doctests"
+EXAMPLE_PATH           = "/home/whale/MyProject/TCP_implement/doctests"
 
 # cmake detects whether dot is available
 HAVE_DOT               = YES

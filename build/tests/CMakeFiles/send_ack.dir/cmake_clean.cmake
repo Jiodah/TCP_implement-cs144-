@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/send_ack.dir/send_ack.cc.o"
-  "send_ack.pdb"
+  "CMakeFiles/send_ack.dir/send_ack.cc.o.d"
   "send_ack"
+  "send_ack.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

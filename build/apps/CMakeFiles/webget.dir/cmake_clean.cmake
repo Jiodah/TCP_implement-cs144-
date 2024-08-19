@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/webget.dir/webget.cc.o"
-  "webget.pdb"
+  "CMakeFiles/webget.dir/webget.cc.o.d"
   "webget"
+  "webget.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

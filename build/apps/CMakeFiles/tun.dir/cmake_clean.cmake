@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tun.dir/tun.cc.o"
-  "tun.pdb"
+  "CMakeFiles/tun.dir/tun.cc.o.d"
   "tun"
+  "tun.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/stream_copy.dir/bidirectional_stream_copy.cc.o"
-  "libstream_copy.pdb"
+  "CMakeFiles/stream_copy.dir/bidirectional_stream_copy.cc.o.d"
   "libstream_copy.a"
+  "libstream_copy.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

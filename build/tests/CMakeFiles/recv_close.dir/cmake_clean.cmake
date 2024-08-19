@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/recv_close.dir/recv_close.cc.o"
-  "recv_close.pdb"
+  "CMakeFiles/recv_close.dir/recv_close.cc.o.d"
   "recv_close"
+  "recv_close.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

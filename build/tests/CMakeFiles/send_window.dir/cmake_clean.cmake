@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/send_window.dir/send_window.cc.o"
-  "send_window.pdb"
+  "CMakeFiles/send_window.dir/send_window.cc.o.d"
   "send_window"
+  "send_window.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/wrapping_integers_cmp.dir/wrapping_integers_cmp.cc.o"
-  "wrapping_integers_cmp.pdb"
+  "CMakeFiles/wrapping_integers_cmp.dir/wrapping_integers_cmp.cc.o.d"
   "wrapping_integers_cmp"
+  "wrapping_integers_cmp.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/fsm_active_close.dir/fsm_active_close.cc.o"
-  "fsm_active_close.pdb"
+  "CMakeFiles/fsm_active_close.dir/fsm_active_close.cc.o.d"
   "fsm_active_close"
+  "fsm_active_close.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

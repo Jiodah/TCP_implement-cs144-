@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/fsm_retx_win.dir/fsm_retx_win.cc.o"
-  "fsm_retx_win.pdb"
+  "CMakeFiles/fsm_retx_win.dir/fsm_retx_win.cc.o.d"
   "fsm_retx_win"
+  "fsm_retx_win.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

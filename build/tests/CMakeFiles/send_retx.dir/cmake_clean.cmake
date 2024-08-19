@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/send_retx.dir/send_retx.cc.o"
-  "send_retx.pdb"
+  "CMakeFiles/send_retx.dir/send_retx.cc.o.d"
   "send_retx"
+  "send_retx.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

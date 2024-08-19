@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/fsm_reorder.dir/fsm_reorder.cc.o"
-  "fsm_reorder.pdb"
+  "CMakeFiles/fsm_reorder.dir/fsm_reorder.cc.o.d"
   "fsm_reorder"
+  "fsm_reorder.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

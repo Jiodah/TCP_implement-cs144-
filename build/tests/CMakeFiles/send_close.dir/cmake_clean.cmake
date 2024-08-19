@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/send_close.dir/send_close.cc.o"
-  "send_close.pdb"
+  "CMakeFiles/send_close.dir/send_close.cc.o.d"
   "send_close"
+  "send_close.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

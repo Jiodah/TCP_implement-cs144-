@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/byte_stream_capacity.dir/byte_stream_capacity.cc.o"
-  "byte_stream_capacity.pdb"
+  "CMakeFiles/byte_stream_capacity.dir/byte_stream_capacity.cc.o.d"
   "byte_stream_capacity"
+  "byte_stream_capacity.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

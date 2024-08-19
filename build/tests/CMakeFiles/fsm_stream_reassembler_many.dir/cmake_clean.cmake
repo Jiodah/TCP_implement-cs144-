@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/fsm_stream_reassembler_many.dir/fsm_stream_reassembler_many.cc.o"
-  "fsm_stream_reassembler_many.pdb"
+  "CMakeFiles/fsm_stream_reassembler_many.dir/fsm_stream_reassembler_many.cc.o.d"
   "fsm_stream_reassembler_many"
+  "fsm_stream_reassembler_many.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

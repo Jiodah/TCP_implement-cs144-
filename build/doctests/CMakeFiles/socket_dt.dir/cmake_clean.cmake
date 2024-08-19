@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/socket_dt.dir/socket_dt.cc.o"
-  "socket_dt.pdb"
+  "CMakeFiles/socket_dt.dir/socket_dt.cc.o.d"
   "socket_dt"
+  "socket_dt.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

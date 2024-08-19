@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/fsm_winsize.dir/fsm_winsize.cc.o"
-  "fsm_winsize.pdb"
+  "CMakeFiles/fsm_winsize.dir/fsm_winsize.cc.o.d"
   "fsm_winsize"
+  "fsm_winsize.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/byte_stream_construction.dir/byte_stream_construction.cc.o"
-  "byte_stream_construction.pdb"
+  "CMakeFiles/byte_stream_construction.dir/byte_stream_construction.cc.o.d"
   "byte_stream_construction"
+  "byte_stream_construction.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/fsm_loopback_win.dir/fsm_loopback_win.cc.o"
-  "fsm_loopback_win.pdb"
+  "CMakeFiles/fsm_loopback_win.dir/fsm_loopback_win.cc.o.d"
   "fsm_loopback_win"
+  "fsm_loopback_win.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

@@ -3,6 +3,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang )
   include(CMakeFiles/tidy_tests__fsm_stream_reassembler_seq.cc.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

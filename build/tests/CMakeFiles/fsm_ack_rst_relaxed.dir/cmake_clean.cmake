@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/fsm_ack_rst_relaxed.dir/fsm_ack_rst_relaxed.cc.o"
-  "fsm_ack_rst_relaxed.pdb"
+  "CMakeFiles/fsm_ack_rst_relaxed.dir/fsm_ack_rst_relaxed.cc.o.d"
   "fsm_ack_rst_relaxed"
+  "fsm_ack_rst_relaxed.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

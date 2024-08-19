@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tcp_ipv4.dir/tcp_ipv4.cc.o"
-  "tcp_ipv4.pdb"
+  "CMakeFiles/tcp_ipv4.dir/tcp_ipv4.cc.o.d"
   "tcp_ipv4"
+  "tcp_ipv4.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

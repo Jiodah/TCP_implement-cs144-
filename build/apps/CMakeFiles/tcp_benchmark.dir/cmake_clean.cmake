@@ -1,7 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tcp_benchmark.dir/tcp_benchmark.cc.o"
-  "tcp_benchmark.pdb"
+  "CMakeFiles/tcp_benchmark.dir/tcp_benchmark.cc.o.d"
   "tcp_benchmark"
+  "tcp_benchmark.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
