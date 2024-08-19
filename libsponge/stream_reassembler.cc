@@ -30,7 +30,7 @@ void StreamReassembler::_buf_insert(const Segment &seg) {
 //! possibly out-of-order, from the logical stream, and assembles any newly
 //! contiguous substrings and writes them into the output stream in order.
 void StreamReassembler::push_substring(const string &data, const size_t index, const bool eof) {
-    if (eof) {  // 若eof==true 表明到达标志位，计算出结束下标并将标志符置为true
+    if (eof) {  // 若eof == true 表明到达标志位，计算出结束下标并将标志符置为true
         _eof_index = index + data.size();
         _eof = true;
     }
